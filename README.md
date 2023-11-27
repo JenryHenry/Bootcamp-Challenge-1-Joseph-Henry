@@ -19,6 +19,8 @@ This web page contains basic information about running a business online.
 This is a screenshot of what the web page should look like:
 ![Alt Website Image](01-html-css-git-homework-demo.png)
 
+Link to web page: [Bootcamp Challenge 1](https://jenryhenry.github.io/Bootcamp-Challenge-1-Joseph-Henry/)
+
 ## Credits
 
 Original Starter Code by "The Coding Bootcamp" on GitHub
